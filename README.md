@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aditya
-- 👀 I’m interested in working on many body physics using ultracold atoms.
--
+- 👀 I’m interested in working on many body physics using ultracold atoms, quantum simulations and their intersection with quantum information.
+
 
 <!---
 Aditya214/Aditya214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
